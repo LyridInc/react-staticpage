@@ -1,6 +1,5 @@
 {
   "homepage": "https://lyridinc.github.io/react-staticpage",
-  "name": "react-staticpage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
